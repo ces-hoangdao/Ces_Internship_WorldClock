@@ -1,0 +1,11 @@
+.react-date-picker {
+    margin-left: 20px;
+    width: 120px;
+    height: 42px;
+}
+.react-date-picker__inputGroup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+}
